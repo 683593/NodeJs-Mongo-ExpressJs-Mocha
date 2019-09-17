@@ -1,12 +1,13 @@
 # express-mongo-Mocha
 
-This is a boilerplate project using the following technologies:
+This is a Test project using the following technologies:
 - [Express](http://expressjs.com/) for RESTful API
 - [MongoDB](https://www.mongodb.com/) for database
+- [Mocha](https://mochajs.org/) for Unit testing
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/en/) 6+
+- [Node.js](https://nodejs.org/en/) 8+
 
 ## Running
 
